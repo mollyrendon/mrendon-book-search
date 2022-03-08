@@ -2,7 +2,7 @@
 
 
 ## Description
-An application 
+An application that lets users sign in and out of an account, search for books, and save books to their book list.  
 
 
 ## Table of Contents
@@ -16,7 +16,7 @@ An application
 - [Questions](#questions)
 
 ## Installation
-
+npm start
 
 
 ## Usage
@@ -28,7 +28,7 @@ An application
 Contributions made by Molly Rendon.
 
 ## Tests
-
+npm test
 
 
 ## Questions
